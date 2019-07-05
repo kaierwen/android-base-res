@@ -1,0 +1,16 @@
+<resources>
+    <string name="base_res_ok">OK</string>
+    <string name="base_res_cancel">Cancel</string>
+    <string name="base_res_skip">Skip</string>
+    <string name="base_res_skip_ls">Skip（%ds）</string>
+    <string name="base_res_skip_us">Skip（%dS）</string>
+    <string name="base_res_exit">Exit</string>
+    <string name="base_res_back">Back</string>
+    <string name="base_res_setting">Setting</string>
+    <string name="base_res_help">Help</string>
+    <string name="base_res_mine">Mine</string>
+    <string name="base_res_version_cur">Current Version</string>
+    <string name="base_res_version_cur_s">Current Version: %s</string>
+    <string name="base_res_version_check">Check for Updates</string>
+    <string name="base_res_msg">Message</string>
+</resources>
