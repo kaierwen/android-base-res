@@ -13,4 +13,8 @@
     <string name="base_res_version_cur_s">Current Version: %s</string>
     <string name="base_res_version_check">Check for Updates</string>
     <string name="base_res_msg">Message</string>
+    <string name="base_res_login">Login</string>
+    <string name="base_res_register">Register</string>
+    <string name="base_res_forget_psd">Forget Password?</string>
+    <string name="base_res_home">Home</string>
 </resources>
