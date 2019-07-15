@@ -9,7 +9,7 @@
     <color name="base_res_black_a20">#33000000</color>
     <color name="base_res_black_a40">#66000000</color>
     <color name="base_res_black_a60">#99000000</color>
-    <color name="base_res_black_80">#cc000000</color>
+    <color name="base_res_black_a80">#cc000000</color>
     <color name="base_res_rgb_33">#333333</color>
     <color name="base_res_rgb_66">#666666</color>
     <color name="base_res_rgb_99">#999999</color>
@@ -18,12 +18,12 @@
     <color name="base_res_red_a20">#33ff0000</color>
     <color name="base_res_red_a40">#66ff0000</color>
     <color name="base_res_red_a60">#99ff0000</color>
-    <color name="base_res_red_820">#ccff0000</color>
+    <color name="base_res_red_a80">#ccff0000</color>
     <color name="base_res_green">#00ff00</color>
     <color name="base_res_green_a20">#3300ff00</color>
     <color name="base_res_green_a40">#6600ff00</color>
     <color name="base_res_green_a60">#9900ff00</color>
-    <color name="base_res_green_aa80">#cc00ff00</color>
+    <color name="base_res_green_a80">#cc00ff00</color>
     <color name="base_res_blue">#0000ff</color>
     <color name="base_res_blue_a20">#330000ff</color>
     <color name="base_res_blue_a40">#660000ff</color>
