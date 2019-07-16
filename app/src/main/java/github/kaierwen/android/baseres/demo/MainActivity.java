@@ -1,4 +1,4 @@
-package github.kaierwen.android.baseresdemo;
+package github.kaierwen.android.baseres.demo;
 
 import androidx.appcompat.app.AppCompatActivity;
 
