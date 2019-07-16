@@ -1,0 +1,20 @@
+<resources>
+    <string name="base_res_ok">确定</string>
+    <string name="base_res_cancel">取消</string>
+    <string name="base_res_skip">跳过</string>
+    <string name="base_res_skip_ls">跳过（%ds）</string>
+    <string name="base_res_skip_us">跳过（%dS）</string>
+    <string name="base_res_exit">退出</string>
+    <string name="base_res_back">返回</string>
+    <string name="base_res_setting">设置</string>
+    <string name="base_res_help">帮助</string>
+    <string name="base_res_mine">我的</string>
+    <string name="base_res_version_cur">当前版本</string>
+    <string name="base_res_version_cur_s">当前版本：%s</string>
+    <string name="base_res_version_check">检查新版本</string>
+    <string name="base_res_msg">消息</string>
+    <string name="base_res_login">登录</string>
+    <string name="base_res_register">注册</string>
+    <string name="base_res_forget_psd">忘记密码？</string>
+    <string name="base_res_home">首页</string>
+</resources>

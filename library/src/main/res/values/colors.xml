@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="base_res_white">#ffffff</color>
+    <color name="base_res_white_a20">#33ffffff</color>
+    <color name="base_res_white_a40">#66ffffff</color>
+    <color name="base_res_white_a60">#99ffffff</color>
+    <color name="base_res_white_a80">#ccffffff</color>
+    <color name="base_res_black">#000000</color>
+    <color name="base_res_black_a20">#33000000</color>
+    <color name="base_res_black_a40">#66000000</color>
+    <color name="base_res_black_a60">#99000000</color>
+    <color name="base_res_black_a80">#cc000000</color>
+    <color name="base_res_rgb_33">#333333</color>
+    <color name="base_res_rgb_66">#666666</color>
+    <color name="base_res_rgb_99">#999999</color>
+    <color name="base_res_rgb_cc">#cccccc</color>
+    <color name="base_res_red">#ff0000</color>
+    <color name="base_res_red_a20">#33ff0000</color>
+    <color name="base_res_red_a40">#66ff0000</color>
+    <color name="base_res_red_a60">#99ff0000</color>
+    <color name="base_res_red_a80">#ccff0000</color>
+    <color name="base_res_green">#00ff00</color>
+    <color name="base_res_green_a20">#3300ff00</color>
+    <color name="base_res_green_a40">#6600ff00</color>
+    <color name="base_res_green_a60">#9900ff00</color>
+    <color name="base_res_green_a80">#cc00ff00</color>
+    <color name="base_res_blue">#0000ff</color>
+    <color name="base_res_blue_a20">#330000ff</color>
+    <color name="base_res_blue_a40">#660000ff</color>
+    <color name="base_res_blue_a60">#990000ff</color>
+    <color name="base_res_blue_a80">#cc0000ff</color>
+</resources>
